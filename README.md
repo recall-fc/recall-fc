@@ -1,17 +1,11 @@
-# Recall FC
+# Recall FC 官方项目
 
-> 记住足球，也重新认识足球。
-
-Recall FC（足一把）是一款关于球员、俱乐部与足球记忆的猜谜游戏。你可以在网页直接游玩，也可以安装 Android App 随时开球。
+本仓库是 Recall FC（足一把）的官方公开项目与 Android 发行地址，用于集中提供官方网站入口、正式安装包、版本说明、文件校验信息和 App 更新状态。
 
 [![在线游玩](https://img.shields.io/badge/在线游玩-playzuyiba.com-C9FF4A?style=for-the-badge&labelColor=111411)](https://playzuyiba.com)
 [![下载 Android](https://img.shields.io/badge/下载-Android_v0.16.0-C9FF4A?style=for-the-badge&logo=android&logoColor=111411&labelColor=111411)](https://github.com/shenshiaba/recall-fc/releases/latest/download/Recall-FC-Android.apk)
 
-## 游戏模式
-
-- **今日一把**：每天一名神秘球员，八次机会，根据俱乐部、联赛、国家、年龄、位置和荣誉逐步锁定答案。
-- **无限练习**：从完整题库反复挑战，找回你的足球记忆。
-- **实时对战**：与其他玩家在线匹配，在相同题目中比速度、比判断。
+Recall FC 是一款足球球员猜谜游戏，目前提供每日挑战、练习和在线对战。产品功能请以官方网站及应用内实际页面为准。
 
 ## Web 与 Android
 
@@ -37,9 +31,9 @@ Android App 已启用签名差分更新：普通界面和游戏资源更新可�
 - 当前生产更新状态：[production.json](https://playzuyiba.com/app-updates/android/production.json)
 - 正式版本与更新记录：[GitHub Releases](https://github.com/shenshiaba/recall-fc/releases)
 
-## 这个公开仓库包含什么
+## 仓库用途与公开范围
 
-这个仓库是 Recall FC 的官方公开项目与发行地址，主要用于公开：
+本仓库主要公开：
 
 - 产品介绍和官方入口
 - Android 正式安装包
